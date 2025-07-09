@@ -13,11 +13,11 @@ The project is developed using Python due to its readability and strong support 
 - pyperclip (optional) – for clipboard integration.
 ### 🧩Sub-Modules Description:
 The system is designed with a modular approach, which includes the following sub-components:
-1.Input Handler: Accepts text from .txt files, clipboard, or direct user input.
-2.Text Cleaner: Normalizes the text by converting to lowercase, removing punctuation, and optionally excluding stop words.
-3.Frequency Analyzer: Uses Counter from the collections module to compute word frequencies.
-4.Statistics Module: Identifies and displays the most and least frequently used words.
-5.Output Generator: Presents results in the console or optionally exports them to a .csv file for further analysis.
+1.**Input Handler:** Accepts text from .txt files, clipboard, or direct user input.
+2.**Text Cleaner:** Normalizes the text by converting to lowercase, removing punctuation, and optionally excluding stop words.
+3.**Frequency Analyzer:** Uses Counter from the collections module to compute word frequencies.
+4.**Statistics Module:** Identifies and displays the most and least frequently used words.
+5.**Output Generator:** Presents results in the console or optionally exports them to a .csv file for further analysis.
 ### 🔁 Project Flow / Design:
 The program flow follows a sequential architecture:
 1. **Text Acquisition:** Choose between file upload, clipboard, or manual input.
