@@ -44,6 +44,6 @@ The final output of the Word Frequency Counter includes:
 - A summary of the most and least frequent words.
 - A CSV export of the frequency data.
 - Optional exclusion of stop words to refine results.
-- 
+  
 In conclusion, this project not only highlights the practical applications of Python in text analysis but also showcases how foundational concepts like string manipulation, dictionary operations, and modular programming can yield powerful results. Its versatility and simplicity make it a valuable educational and analytical tool for a wide range of users from developers and linguists to students and digital marketers.
 
