@@ -1,5 +1,5 @@
-### 📦 Requirements
-The project uses the following Python libraries:
+# Requirements
+### project uses the following Python libraries:
 
 Package	Purpose
 nltk	(Optional) Used for stopword removal and basic natural language tasks
