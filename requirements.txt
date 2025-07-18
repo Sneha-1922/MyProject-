@@ -1,3 +1,19 @@
-nltk
-matplotlib
-wordcloud
+### 📦 Requirements
+The project uses the following Python libraries:
+
+Package	Purpose
+nltk	(Optional) Used for stopword removal and basic natural language tasks
+matplotlib	Used to plot and save the WordCloud image
+wordcloud	Generates a visual word cloud from word frequencies
+streamlit	(Optional) If building a GUI web app for uploading and analyzing text
+beautifulsoup4, requests	(Optional) For scraping and analyzing words from a webpage
+langdetect	(Optional) Auto-detect language of input text
+spacy	(Optional) For advanced NLP preprocessing in multilingual support
+
+How to install
+Run the following to install all dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
